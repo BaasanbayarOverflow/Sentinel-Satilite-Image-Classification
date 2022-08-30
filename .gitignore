@@ -1,0 +1,5 @@
+/.ipynb_checkpoints
+/ResNet50V2_imageDataGen
+/ResNet50V2_opencv
+ResNet50V2_imageDataGen.h5
+ResNet50V2_opencv.h5
